@@ -72,7 +72,7 @@ Sanic-Cors = "^1.0.0"
 urllib3 = "^1.26.5"
 
 [tool.poetry.dev-dependencies]
-pytest-cov = "^2.12.1"
+pytest-cov = "^3.0.0"
 coveralls = "^3.1.0"
 pytest = "^6.2.5"
 black = "^21.9b0"
